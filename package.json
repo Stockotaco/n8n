@@ -6,7 +6,8 @@
   "scripts": {
     "start": "./node_modules/n8n/bin/n8n",
     "build": "npm install",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "update": "npm update -g n8n"
   },
   "author": "John Kraczek",
   "license": "ISC",
